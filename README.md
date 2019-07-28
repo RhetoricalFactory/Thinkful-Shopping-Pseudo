@@ -1,0 +1,2 @@
+# Thinkful-Shopping-Pseudo
+ assignment
